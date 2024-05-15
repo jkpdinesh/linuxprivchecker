@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-"""
+""""
 ###############################################################################################################
 ## [Title]: linuxprivchecker.py -- a Linux Privilege Escalation Check Script
 ## [Original Author]: Mike Czumak (T_v3rn1x) -- @SecuritySift
